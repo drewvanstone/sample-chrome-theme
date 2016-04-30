@@ -1,0 +1,189 @@
+{
+    "version": "1.0",
+    "name": "Sample Theme",
+    "description": "Sample theme with all images, colors, properties and tints",
+    "theme": {
+        "images": {
+            "theme_frame": "image/",
+            "theme_frame_overlay": "image/",
+            "theme_toolbar": "image/",
+            "theme_tab_background": "image/",
+            "theme_ntp_background": "image/",
+            "theme_ntp_attribution": "image/"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "frame_inactive": [
+                0,
+                0,
+                0
+            ],
+            "frame_incognito": [
+                0,
+                0,
+                0
+            ],
+            "frame_incognito_inactive": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                0,
+                0,
+                0
+            ],
+            "tab_background_incognito": [
+                0,
+                0,
+                0
+            ],
+            "tab_text": [
+                0,
+                0,
+                0
+            ],
+            "background_tab_text": [
+                0,
+                0,
+                0
+            ],
+            "bookmark_text": [
+                0,
+                0,
+                0
+            ],
+            "ntp_background": [
+                0,
+                0,
+                0
+            ],
+            "ntp_text": [
+                0,
+                0,
+                0
+            ],
+            "ntp_link": [
+                0,
+                0,
+                0
+            ],
+            "ntp_link_underline": [
+                0,
+                0,
+                0
+            ],
+            "ntp_header": [
+                0,
+                0,
+                0
+            ],
+            "ntp_section": [
+                0,
+                0,
+                0
+            ],
+            "ntp_section_text": [
+                0,
+                0,
+                0
+            ],
+            "ntp_section_link": [
+                0,
+                0,
+                0
+            ],
+            "ntp_section_link_underline": [
+                0,
+                0,
+                0
+            ],
+            "button_background": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "control_background": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "toolbar_separator": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "toolbar_button_stroke": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "toolbar_button_stroke_inactive": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "toolbar_bezel": [
+                0,
+                0,
+                0
+            ],
+            "toolbar_stroke": [
+                0,
+                0,
+                0
+            ],
+            "toolbar_stroke_inactive": [
+                0,
+                0,
+                0
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "top",
+            "ntp_background_repeat": "no-repeat",
+            "ntp_logo_alternate": 0
+        },
+        "tints": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "frame_inactive": [
+                0,
+                0,
+                0
+            ],
+            "frame_incognito": [
+                0,
+                0,
+                0
+            ],
+            "frame_incognito_inactive": [
+                0,
+                0,
+                0
+            ],
+            "buttons": [
+                0,
+                0,
+                0
+            ],
+            "background_tab": [
+                0,
+                0,
+                0
+            ]
+        }
+    }
+}
